@@ -1,0 +1,11 @@
+#img{
+    background-image: url(
+        https://image.petmd.com/files/styles/978x550/public/2022-04/happy-dogs.jpg?w=1080&q=75
+        );
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.img-cir{
+    border-radius: 100%;
+}
