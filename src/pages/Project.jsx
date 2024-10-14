@@ -7,7 +7,7 @@ const Project = (props)=>{
  const [tempdata,setTempData] = useState([])
  const [loading,setLoading]=useState(false)
  const [searchData,setSearchData] = useState('')
- const {url,header}={url:'/data2.json',
+ const {url,header}={url:'/data.json',
     header:{'Content-Type': 'application/json',
         'Accept': 'application/json'}}
  useEffect(
