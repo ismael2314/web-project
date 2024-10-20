@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 import { useParams } from "react-router-dom"
-import ProImg from './assets/img/profile.jpg'
+import ProImg from '../assets/img/profile.jpg'
 import './index.css'
 const Project = (props)=>{
  const {id} = useParams();
