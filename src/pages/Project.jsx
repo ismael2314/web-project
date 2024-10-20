@@ -54,7 +54,7 @@ const Project = (props)=>{
         <div className="scroll">
         {data.map((item,count)=>
             <div key={count}  className="d-flex  flex-wrap p-0 justify-content-between gap-3 mb-2 bg-secondary rounded text-light mx-3">
-                <img src={props.src} alt="item" srcSet=""className="m-0 p-0 rounded-left img-fluid col-12 col-md-5 col-lg-4" />
+                <img src={item.img} alt="item" srcSet=""className="m-0 p-0 rounded-left img-fluid col-12 col-md-5 col-lg-4" />
                 <div className="col-12 col-md-6 col-lg-7 py-5 px-3">
                 
                 <p className="h5">{item.Title}</p>
