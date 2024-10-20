@@ -48,7 +48,6 @@ export const Skills = () => {
       <div className="text-center">
         <h1 className="display-4 fw-bold">Skills</h1>
         <hr />
-        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit.</p>
       </div>
 
       <div className="row gap-3 justify-content-center position-relative">
