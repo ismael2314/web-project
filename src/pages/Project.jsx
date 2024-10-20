@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 import { useParams } from "react-router-dom"
-import Netflix from '../assets/img/profile.jpg'
+import Netflix from '../assets/img/Screenshot 2024-09-28 210139.png.jpg'
 import Veternary from '../assets/img/profile.jpg'
 import './index.css'
 const Project = (props)=>{
