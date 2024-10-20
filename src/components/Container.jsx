@@ -9,7 +9,7 @@ export const Hero = (props) => {
           <div>
             <h1 className="display-4 fw-bold">Ismael.Y</h1>
             <hr />
-            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit.</p>
+            <p>I am a team player who is committed to learning, excellence, ethics and skill improvement with great interest in technology and innovations. </p>
             <Link className="btn btn-light" to="/cv" ><i className='fa fa-download'></i> DownloadCV</Link>
           </div>
           
