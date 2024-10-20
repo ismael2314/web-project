@@ -1,6 +1,7 @@
 import { useEffect, useState } from "react";
 import { useParams } from "react-router-dom"
-import ProImg from '../assets/img/profile.jpg'
+import Netflix from '../assets/img/profile.jpg'
+import Veternary from '../assets/img/profile.jpg'
 import './index.css'
 const Project = (props)=>{
  const {id} = useParams();
@@ -45,27 +46,19 @@ const Project = (props)=>{
         <>
         <div className="container bg-dark text-light rounded py-3 mb-3">
         <h1 className="px-3">Project {id}</h1>
-        
         <hr />
-        <div className="col-3 mx-3">
-            <input className="form-control form-control-sm my-3" placeholder="Projects" onChange={(e)=> handleSearch(e.target.value)}/>
-        </div>
-       
-        {!loading?
         <div className="scroll">
-        {data.map((item,count)=>
-            <div key={count}  className="d-flex  flex-wrap p-0 justify-content-between gap-3 mb-2 bg-secondary rounded text-light mx-3">
-                <img src={ProImg} alt="item" srcSet=""className="m-0 p-0 rounded-left img-fluid col-12 col-md-5 col-lg-4" />
+            <div key='1'  className="d-flex  flex-wrap p-0 justify-content-between gap-3 mb-2 bg-secondary rounded text-light mx-3">
+                <img src={Netflix} alt="item" srcSet=""className="m-0 p-0 rounded-left img-fluid col-12 col-md-5 col-lg-4" />
                 <div className="col-12 col-md-6 col-lg-7 py-5 px-3">
                 
-                <p className="h5">{item.Title}</p>
+                <p className="h5">Netfilix Clon</p>
                 <hr />
-                <p>{item.Discription}</p>
-                <p>{item.DevDate}</p>
-                < div onClick={()=>{}} className="btn btn-light border col-lg-3 col-4 col-md-6">Sneak peek</div>
+                <p>This project showcases my skills in web development, with a focus on creating a functional and visually appealing replica of the popular streaming platform, Netflix.</p>   
+                <div onClick={()=>{}} className="btn btn-light border col-lg-3 col-4 col-md-6">Sneak peek</div>
                 </div>
             </div>
-            )}
+        
         </div>:<div className="d-flex justify-content-center">
                 <div className="spinner-grow" role="status">
                   <span className="sr-only">Loading...</span>
