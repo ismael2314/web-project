@@ -59,15 +59,7 @@ const Project = (props)=>{
                 </div>
             </div>
         
-        </div>:<div className="d-flex justify-content-center">
-                <div className="spinner-grow" role="status">
-                  <span className="sr-only">Loading...</span>
-                </div>
-            </div>
-        }
-         {
-            data.length <= 0 && <p className="text-light text-center w-100 form-text">No Projects made yet</p>
-        }
+        </div>
         </div>
             
             
