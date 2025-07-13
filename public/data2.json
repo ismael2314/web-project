@@ -1,0 +1,93 @@
+{
+    "projects":{"detail":[{
+        "paragraph":[
+            [
+      "Cloned modern, responsive websites using HTML, CSS, and React to practice layout, interactivity, and component-based architecture.",
+      "Designed and built a personal portfolio website using React, showcasing projects, skills, and contact details with a clean and responsive UI.",
+      "Developed a RESTful API in C# using ASP.NET Core to handle backend logic, including CRUD operations and authentication."
+    ]
+        ],
+        "list":[],
+        "header":"Projects"
+        }],
+        "data":[
+            {"name":"Neflix website clone","progLang":["React","HTML","CSS","JS"],"href":"https://splendorous-longma.netlify.app/","img":""}
+            ,{"name":"Inventory System","progLang":["ReactJs","ExpressJs"],"href":"https://github.com/ismael2314/InventorySystem","img":""}
+            ,{"name":"X-Report","progLang":["React","HTML","CSS"],"href":"https://example.com","img":""}
+            ,{"name":"API-MOHOTC","progLang":["C#"],"href":"https://github.com/ismael2314/OTCApiMicorServiceMoH","img":""}
+            ,{"name":"GuessingGame","progLang":["Python"],"href":"https://github.com/ismael2314/GussingGame","img":""}
+            ]},
+
+    "skills":{"detail":[{
+        "paragraph":[
+"I have a strong foundation in both frontend and backend development, with hands-on experience in building dynamic web applications. My frontend skills include HTML, CSS, JavaScript, and React, complemented by UI frameworks like Bootstrap and Material UI for creating responsive, modern interfaces. On the backend, I work confidently with Node.js and C#, using MySQL and MS SQL for robust database management. I also have experience in Java, enabling me to adapt across different programming environments. This diverse technical skill set allows me to contribute effectively to full-stack development projects, from designing clean user interfaces to implementing scalable server-side logic and database integration."
+        ],
+        "header":"Skills"
+        }],"data":[
+            {"name":"UI/UX","progLang":["HTML","CSS","JavaScript","React","MaterialUI","Bootstrap"],"href":"https://example.com","img":"","icon":""}
+            ,{"name":"DataBases","progLang":["Microsoft SQL","MySql","MangoDB"],"href":"https://example.com","img":"","icon":""}
+            ,{"name":"Programing Languages and Frameworks","progLang":["NodeJs","Python","C#","Java","SQL"],"href":"https://example.com","img":"","icon":""}
+            ]},
+    "profile":{"detail":[{
+        "paragraph":[
+            "I am a motivated and collaborative team player with a strong commitment to continuous learning, excellence, and ethical conduct. Passionate about technology and innovation, I actively seek opportunities to grow my skills and stay current with emerging trends. I believe that effective teamwork, clear communication, and mutual respect are essential to driving success in any project.Whether working independently or within a group, I approach challenges with curiosity, adaptability, and a desire to improve. I value feedback as a tool for growth and strive to uphold high standards in every task I undertake. My goal is to contribute meaningfully to innovative, forward-thinking environments while constantly evolving as a professional in the tech space. "
+        ],
+        "link":[{"text":"Download","href":"/cv"}],
+        "header":"Ismael.Y"
+        }],"summary":[{
+            "img":"profile.jpg",
+            "connect":[
+                {
+                "text":"GitHub",
+                "href":"https://github.com/ismael2314"
+            },
+            {
+                "text":"LinkedIn",
+                "href":"https://www.linkedin.com/in/ismael-yusuf/"
+            },{
+                "text":"Upwork",
+                "href":"https://www.upwork.com/freelancers/~011238a414ee9b69e3?mp_source=share"
+            }
+        ]
+        }]},
+    "contact":{"detail":[{
+        "paragraph":[
+          "I'm always open to new opportunities, collaborations, or just a friendly chat about technology and development. Whether you have a project idea, a question, or simply want to connect, feel free to reach out! You can contact me via email or through my social media profiles. I look forward to hearing from you and exploring how we can build something great together."
+        
+        ],
+        "contactDetail":[
+        {"text":"Hackers rank","href":"https://www.hackerrank.com/profile/LIA_UIDSYA"}
+        ,{"text":"LinkedIn","href":"https://www.linkedin.com/in/ismael-yusuf/"}
+        ,{"text":"Github","href":"https://github.com/ismael2314"}
+        ,{"text":"Upwork","href":"https://www.upwork.com/freelancers/~011238a414ee9b69e3?mp_source=share"}
+        ],
+        "header":"Get in touch"
+        }],"summary":[{
+            "img":"profile.jpg"
+            }]},
+    "":{"detail":[
+        {
+        "paragraph":[
+            "I am a motivated and collaborative team player with a strong commitment to continuous learning, excellence, and ethical conduct. Passionate about technology and innovation, I actively seek opportunities to grow my skills and stay current with emerging trends. I believe that effective teamwork, clear communication, and mutual respect are essential to driving success in any project.Whether working independently or within a group, I approach challenges with curiosity, adaptability, and a desire to improve. I value feedback as a tool for growth and strive to uphold high standards in every task I undertake. My goal is to contribute meaningfully to innovative, forward-thinking environments while constantly evolving as a professional in the tech space. "
+        ],
+        "link":[{"text":"Download","href":"/cv"}],
+        "header":"Ismael.Y"
+        }],
+        "summary":[{
+            "img":"profile.jpg",
+            "connect":[
+                {
+                "text":"GitHub",
+                "href":"https://github.com/ismael2314"
+            },
+            {
+                "text":"LinkedIn",
+                "href":"https://www.linkedin.com/in/ismael-yusuf/"
+            },{
+                "text":"Upwork",
+                "href":"https://www.upwork.com/freelancers/~011238a414ee9b69e3?mp_source=share"
+            }
+        ]
+        }
+    ]}
+}
