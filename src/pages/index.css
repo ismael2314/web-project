@@ -80,7 +80,7 @@
 }
 .form-control:focus{
     box-shadow: none;
-    border:#434444;
+    /* border:#434444; */
 }
 
 .btn:focus{
